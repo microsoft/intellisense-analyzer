@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/phillipb/intellisense-analyzer.git"
+    "url": "git+https://github.com/microsoft/intellisense-analyzer.git"
   },
   "keywords": [
     "intellisense",
@@ -19,12 +19,12 @@
   "author": "Phillip Burch",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/phillipb/intellisense-analyzer/issues"
+    "url": "https://github.com/microsoft/intellisense-analyzer/issues"
   },
   "bin": {
     "intellisense-analyzer": "./bin/intellisense-analyzer.js"
   },
-  "homepage": "https://github.com/phillipb/intellisense-analyzer#readme",
+  "homepage": "https://github.com/microsoft/intellisense-analyzer#readme",
   "dependencies": {
     "@typescript/server-harness": "^0.3.5",
     "commander": "^12.1.0",
