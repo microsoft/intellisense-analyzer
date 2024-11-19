@@ -7,7 +7,9 @@ npm install -D intellisense-analyzer
 ```
 
 ## Usage
-`node_modules/.bin/intellisense-analyzer open myfile.ts`
+```
+node_modules/.bin/intellisense-analyzer open myfile.ts
+```
 
 ## Contributing
 
