@@ -1,5 +1,5 @@
 # Intellisense Analyzer
-A headless cli tool for measuring the performance and memory usage of the Typescript tsserver process. This tool can measure the performance of tsserver when opening any file in your project.
+A headless cli tool for measuring the performance and memory usage of the Typescript tsserver process. This tool can measure the performance of tsserver when opening any file in your project. The tool also generates a trace from tsserver that can be opened with https://www.speedscope.app
 
 ## Installing
 ```
