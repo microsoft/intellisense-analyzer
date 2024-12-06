@@ -8,7 +8,7 @@ npm install -D intellisense-analyzer
 
 ## Usage
 ```
-node_modules/.bin/intellisense-analyzer open myfile.ts
+node_modules/.bin/intellisense-analyzer myfile.ts
 ```
 <img width="423" alt="Code_7r8kMC7wBk" src="https://github.com/user-attachments/assets/c0ae1daa-9306-4129-8e09-d01fde023bec">
 
